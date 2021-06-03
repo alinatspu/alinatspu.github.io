@@ -1,4 +1,3 @@
-import{Node} from "./node.js"
 import {Agenda} from "./agenda.js"
 
 export class Node
